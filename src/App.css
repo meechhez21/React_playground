@@ -1,0 +1,22 @@
+.left_paddle{
+  shape-rendering: crispEdges;
+  height: 3px;
+  width: 1.5px;
+  color-adjust: #000000;
+}
+.right_paddle{
+  shape-rendering: crispEdges;
+  height: 3px;
+  width: 1.5px;
+  color-adjust: #000000;
+}
+
+.pong_ball{
+  width: 2px;
+  height: 2px;
+  color-adjust: #938469;
+  shape-rendering: optimizeSpeed;
+}
+
+
+
